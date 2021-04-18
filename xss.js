@@ -1,3 +1,3 @@
-function testing(){
+function reqTesting () {
   alert(1);
 };
